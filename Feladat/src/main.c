@@ -31,7 +31,7 @@ int main(int argc, char* argv[]) /* Ablak betöltés és tartalom megjenítés*/
     glutInitWindowSize(800, 600);     
     glutInitDisplayMode(GLUT_RGBA | GLUT_DOUBLE | GLUT_DEPTH);
 
-    window = glutCreateWindow("Nagy Adam V712UZ Grafika beadando");
+    window = glutCreateWindow("Zarandi Akos DX6C4R beadando");
     glutSetWindow(window);
 
     init_opengl();
